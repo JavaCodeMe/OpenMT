@@ -1,6 +1,6 @@
 package nl.openminetopia.modules.police.listeners;
 
-import nl.openminetopia.modules.police.utils.BalaclavaUtils;
+
 import nl.openminetopia.utils.ChatUtils;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
